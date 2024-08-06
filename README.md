@@ -1,6 +1,3 @@
-Here’s a `README.md` file for your "Face Detections" project:
-
-````markdown
 # Face Detections
 
 This project implements face detection using both Single Shot Multibox Detector (SSD) and Haarcascade in Python 3. The goal of this project is to provide robust face detection models that can be easily integrated into various applications.
@@ -41,7 +38,6 @@ You can install the required packages using the following command:
 ```bash
 pip install opencv-python-headless numpy tensorflow imutils
 ```
-````
 
 ## Installation
 
@@ -93,3 +89,7 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 ## License
 
 This project is licensed under the MIT License.
+
+```
+
+```
