@@ -80,7 +80,7 @@ python camera.py
 
 ### Video Demonstration
 
-![Video Demo](resources/system_images/ssd_detectation.mp4)
+![Video Demo](resources/system_images/ssd_detectation01.mp4)
 
 ## Contributing
 
